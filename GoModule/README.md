@@ -1,4 +1,4 @@
-# Private GitHub에 등록하기 
+# Private GitHub로 모듈 리포지토리 이용하기
 
 - go module을 이용하면, 복잡한 패키지를 편하게 관리할 수 있다. 
 - go package들을 관리하기 위해서는 module repository 에 모듈을 올려두고, 이를 'go get' 을 이용하여 모듈을 가져올 수 있다. 
