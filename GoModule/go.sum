@@ -1,0 +1,4 @@
+github.com/schooldevops/go-module-repo v0.0.2 h1:Rh0g8QuT94Hr7IugfUi6f+k27VKvugxZqo4bvwXgycQ=
+github.com/schooldevops/go-module-repo v0.0.2/go.mod h1:2K6tnCWSOhdSDqw+Ck8dTmY9rSPtnr0SQT6cOqNGB1E=
+github.com/schooldevops/go-module-repo/greeting v0.0.0-20220429045940-72738dae024a h1:DsT3DIAmYBYrI4q7dGUKQT9vMyaOvwAfsXILGW24i8Q=
+github.com/schooldevops/go-module-repo/greeting v0.0.0-20220429045940-72738dae024a/go.mod h1:OCol+2QzLIUUIFdXNqckKPhH6NcvwTBtYEm+kWGCLcg=
