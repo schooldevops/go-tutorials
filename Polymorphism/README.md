@@ -105,7 +105,7 @@ type Rectangle struct {
 	Y    float64
 }
 
-func (rectangle Rectangle) GetName() string {
+func (rectangle Rectangle) GetName() string {  
 	return rectangle.Name
 }
 
