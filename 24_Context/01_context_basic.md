@@ -327,3 +327,7 @@ End of example.
 - 그리고 context.WithTimeout 메소드를 통해서 타임아웃이 있는 컨텍스트를 전달하여 컨텍스트를 특정 시간동안 처리하도록 제한을 걸어보았다. 
 - context.Err 함수를 이용하여 컨텍스트 정지 및 오류에 대해서 사유를 출력하고 확인도 해 보았다. 
 - 컨텍스트의 경우 꼭 필요한 정보를 하위 루틴에 안전하게 전달하는 방법을 제시하고 있다. 
+
+- 참고:
+  - https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
+  - https://tutorialedge.net/golang/go-context-tutorial/
